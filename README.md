@@ -9,6 +9,8 @@
 > paste link: [某度](http://www.baidu.com/)
 
 3.test tables
-项目|签到
+
+>项目|签到
+:-----|:-----
 1|√|
 2||
